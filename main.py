@@ -1,1 +1,1 @@
-from application import app # from the app folder, get the app function from __init__.py
+from application import app # pulling app from application/__init__.py
